@@ -4,4 +4,4 @@ layout: frontpage
 
 ## Welcome to my website
 
-һ����ѧϰ��֪�Ͻ����ƹ�ͨ����ϸ�ڣ����ж����ˡ�
+爱学习，知上进，善沟通，重细节，懂感恩。
