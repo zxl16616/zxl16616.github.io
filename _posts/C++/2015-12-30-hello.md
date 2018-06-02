@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: C++相关
+categories: C++
 ---
 
 ## Empty diary template
