@@ -13,7 +13,7 @@ permalink: /projects/
 
 ### 基于分形理论的三维树木形态模拟
 * Started: 2017.2-2017.6
-* Website: [显示](http://www.nplproject.com)
+* Website: [Plant-Growth-Simulation](https://github.com/zxl16616/Plant-Growth-Simulation)
    * 分形理论
    * L-系统
    * OpenGL
@@ -27,7 +27,7 @@ permalink: /projects/
 
 #### 软件运行  
 <center>
-<img src="C:\Users\Ivan\Desktop\三维树.png" width="25%" height="25%" />
+<img src="D:\GitHub\zxl16616.github.io\_posts\pic\3Dtree.png" width="25%" height="25%" />
 Figure 1. 软件运行界面
 </center>
 
