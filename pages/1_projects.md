@@ -27,7 +27,7 @@ permalink: /projects/
 
 #### 软件运行  
 <center>
-<img src="D:\GitHub\zxl16616.github.io\_posts\pic\3Dtree.png" width="25%" height="25%" />
+<img src="https://github.com/zxl16616/zxl16616.github.io/blob/master/_posts/pic/3Dtree.png" width="25%" height="25%" />
 Figure 1. 软件运行界面
 </center>
 
