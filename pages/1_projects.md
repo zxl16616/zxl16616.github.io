@@ -36,18 +36,17 @@ L-系统的原理本质上就是字符串的替代和重写。它的基本思想
 
 #### 软件运行  
 <center>
-<img src="https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/3Dtree.png" alt="软件运行界面" width="70%" height="70%">  
-
-Figure 1. 软件运行界面
+<img src="https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/3Dtree.png" alt="软件运行界面" width="70%" height="70%"> 
 </center>  
 
+<center>Figure 1. 软件运行界面</center>
 
 
 <center>
-<img src="https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/paramSet.png" alt="参数调整界面" width="70%" height="70%">  
-
-Figure 2. 参数调整界面
+<img src="https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/paramSet.png" alt="参数调整界面" width="70%" height="70%">
 </center>  
+
+<center>Figure 2. 参数调整界面</center>
 
 
 
