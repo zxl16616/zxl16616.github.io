@@ -10,7 +10,7 @@ permalink: /projects/
 
 # 项目
 以下是我在校期间的一些项目经历，其中部分项目已经申请了软件著作权。
-
+   
 ### 三维树木形态模拟
 * Started: 2017.2-2017.6
 * Website: [Plant-Growth-Simulation](https://github.com/zxl16616/Plant-Growth-Simulation)
@@ -36,7 +36,7 @@ L-系统的原理本质上就是字符串的替代和重写。它的基本思想
 
 #### 软件运行  
 <center>
-![软件运行界面](https://github.com/zxl16616/zxl16616.github.io/blob/master/_posts/pic/3Dtree.png)  
+![](https://github.com/zxl16616/zxl16616.github.io/blob/master/_posts/pic/3Dtree.png)
 
 Figure 1. 软件运行界面
 </center>
