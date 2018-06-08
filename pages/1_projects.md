@@ -69,7 +69,7 @@ L-系统的原理本质上就是字符串的替代和重写。它的基本思想
 #### 软件运行  
 
 <center>
-<img src="https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/Protein01.png" alt="氨基酸脱水缩合过程" width="65%" height="65%">
+<img src="https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/Protein01.png" alt="氨基酸脱水缩合过程" width="80%" height="80%">
 </center>  
   
 <center>Figure 3. 氨基酸脱水缩合过程</center>    
@@ -77,7 +77,7 @@ L-系统的原理本质上就是字符串的替代和重写。它的基本思想
    
 
 <center>
-<img src="https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/Protein01.png" alt="人胰岛素A链结构" width="80%" height="80%">
+<img src="https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/Protein02.png" alt="人胰岛素A链结构" width="80%" height="80%">
 </center>  
   
 <center>Figure 4. 人胰岛素A链结构</center> 
