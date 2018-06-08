@@ -35,11 +35,11 @@ L-系统的原理本质上就是字符串的替代和重写。它的基本思想
  
 
 #### 软件运行  
-
-![软件运行界面](https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/3Dtree.png)
+<center>
+<img src="https://github.com/zxl16616/zxl16616.github.io/raw/master/_posts/pic/3Dtree.png" alt="软件运行界面" width="80%" height="80%">
 
 Figure 1. 软件运行界面
-
+</center>
 
 
 
