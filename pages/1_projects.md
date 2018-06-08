@@ -12,8 +12,9 @@ permalink: /projects/
 以下是我在校期间的一些项目经历，其中部分项目已经申请了软件著作权。
    
 ### 三维树木形态模拟
-* Started: 2017.2-2017.6
-* Website: [Plant-Growth-Simulation](https://github.com/zxl16616/Plant-Growth-Simulation)
+* 软著登记号：2017SR526116
+* 起止日期: 2017.2-2017.6
+* 部分源码: [Plant-Growth-Simulation](https://github.com/zxl16616/Plant-Growth-Simulation)
    * 分形理论
    * L-系统
    * OpenGL
@@ -52,8 +53,9 @@ L-系统的原理本质上就是字符串的替代和重写。它的基本思想
 
 
 ### 蛋白质结构可视化
-* Started: 2017.9-2017.10
-* Website: [Protein-Molecules](https://github.com/zxl16616/Protein-Molecules)
+* 软著登记号：2017SR689462
+* 起止日期: 2017.9-2017.10
+* 部分源码: [Protein-Molecules](https://github.com/zxl16616/Protein-Molecules)
    * 生物信息理论
    * OpenGL
 

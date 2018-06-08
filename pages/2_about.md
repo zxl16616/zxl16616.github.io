@@ -9,46 +9,13 @@ permalink: /about/
 {:toc}
 
 ## About the site
-This is a personal website of LiXizhi, created with github and jekyll. 
-Create your own website is as easy as clone or fork a [template](https://github.com/LiXizhi/lixizhi.github.io) on github, and [commit](http://jekyllrb.com/docs/posts/) to `_posts` folder. 
 
-### Admin tools
-* site [configuration file](https://github.com/LiXizhi/lixizhi.github.io/blob/master/_config.yml)
-* Jekyll + [lixizhi.duoshuo.com](http://lixizhi.duoshuo.com/admin/)
-* Jekyll + [lixizhi.disqus.com](http://lixizhi.disqus.com/admin/)
-* Jekyll theme templates: [jekyllthemes.org](http://jekyllthemes.org)
-   * Theme used: [cool-concise](http://jekyllthemes.org/themes/cool-concise-high-end/)
-* Jekyll official site: [jekyllrb.com](http://jekyllrb.com)
-* YAML for human readable markdown: [yaml.org](http://www.yaml.org/)
-* markdown reference: [kramdown](http://kramdown.gettalong.org/quickref.html)
+此网站是博主利用Github来搭建的一个分享与交流平台，主要记录平时学习和研究中技术上的一些心得，当然也会更新一些杂文:)。由于博主知识和能力的限制，本博客中的内容可能会有纰漏，请大家指正，博主一定在最短的时间内改正！希望大家在这里能有所收获！  
 
-### About comments
-Add a variable called `comments` to the [YAML front matter](http://jekyllrb.com/docs/frontmatter/) and set its value to true. A sample might look like:
-
-    ---
-    layout: post
-    comments: true
-    # other options
-    ---
-
-### Sample markdowns
-Click view source at the bottom of the page
-
-* Embedding code
-{% highlight lua %}
-local function main()
-	print("hello world everyone")
-end
-{% endhighlight %}
 
 
 ## About me
 
-My primary research interest is in artificial intelligence, programming and education. See my project page for details.
+我硕士期间主要研究方向为计算机图形学与三维建模，以及多媒体信息处理，其中涉及到部分语义分析与模型检索的研究，相关项目及成果请参考[Projects](https://zxl16616.github.io/projects/)页面。
 
-
-### 2005 Old Website 
-Here is my old personal website when I was in University. It was mostly on my projects and thoughts before 2005.
-
-* [Xizhi's old website before 2005](/oldsite2005/index.htm). 
 
