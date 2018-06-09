@@ -18,7 +18,7 @@ viewsourceroot: https://github.com/zxl16616/zxl16616.github.io/blob/master/
 newsourceroot: https://github.com/zxl16616/zxl16616.github.io/new/master
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: zxl16616
+duoshuo_shortname: zxl16616
 #duoshuo_url: "http://zxl16616.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: zxl
